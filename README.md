@@ -50,4 +50,3 @@ Made with ❤️ by students of **Acharya Institute of Technology**
 1. Clone the repository  
    ```bash
    git clone https://github.com/AdvayaHackathon/237.The_Innovators.git
-6
